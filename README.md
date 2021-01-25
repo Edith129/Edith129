@@ -1,4 +1,4 @@
-### Hi there 👋
+是个新手小白，只学了最基础的C语言，希望在接下来的时间里能继续努力昂！
 
 <!--
 **Edith129/Edith129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

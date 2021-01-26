@@ -1,4 +1,4 @@
-是个新手小白，只学了最基础的C语言，希望在接下来的时间里能继续努力昂！
+是一个苦苦在计算机之路上前行的秃头潜力股，目前只掌握了c语言的部分知识（自觉学的还不够透彻）
 
 <!--
 **Edith129/Edith129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
